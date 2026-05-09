@@ -35,10 +35,10 @@ O projeto foi desenvolvido cobrindo o ciclo de engenharia e visualização de da
 ## 📊 Destaques Visuais (Dashboard Previews)
 
 ### 1. Visão Executiva (Dark Mode UI)
-<img src="./assets/01-Visao-Executiva.png" width="800">
+<img src="./assets/01.Capa_Dark.png" width="800">
 
 ### 2. Simulador Preditivo de Retenção
-<img src="./assets/02-Simulador-Retencao.png" width="800">
+<img src="./assets/04.Simulador_Retencao_Dark.png" width="800">
 
 ---
 
